@@ -12,3 +12,12 @@ tupltesting = tupltesting + ("test6APPENDED",)
 print(tupltesting)
 tupltesting= ("just one", "just two", "just three", "just four", "test5", "test6")
 print(tupltesting)
+
+# exercise for the tuples concept of python
+
+restaurnt = ("Enjera bewet", "Tibs", "Pasta batklt", "Firfir", "Shuro")
+print(f"\n\nHere is the menu of the restaurant : {restaurnt}")
+
+restaurnt = ("Tegabino", "Tibs", "Doro Wot", "Firfir", "Shuro")
+print(f"\n\nThe updated menu of the restaurant : {restaurnt}")
+

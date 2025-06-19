@@ -54,7 +54,7 @@ else:
 
 favorite_fruits = ["apple", "banana", "orange"]
 
-fruit="lemon"
+fruit="lemon"      
 
 for i in favorite_fruits:
     if i == fruit:

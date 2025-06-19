@@ -43,3 +43,15 @@ for new_user in new_users:
     else:
         print(f"{new_user} is available for use.")
 
+# Exercise 4 for advanced List , If statement and For loop concepts with a different approach
+
+ordinal_numbers = list(range(1, 10))
+for number in ordinal_numbers:
+    if number == 1:
+        print(f"{number}st")
+    elif number == 2:
+        print(f"{number}nd")
+    elif number == 3:
+        print(f"{number}rd")
+    else:
+        print(f"{number}th")

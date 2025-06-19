@@ -55,3 +55,9 @@ for number in ordinal_numbers:
         print(f"{number}rd")
     else:
         print(f"{number}th")
+
+# Exercise 5 for advanced List , If statement and For loop concepts with a different approach
+
+quadratic_equation = [(x, x**2) for x in range(1, 11)]
+for x, y in quadratic_equation:
+    print(f"The square of {x} is {y}")

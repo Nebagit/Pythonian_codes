@@ -11,3 +11,12 @@ print(nebiyu)
 
 nebiyu["skills"] = ["Python", "JavaScript", "C++"]  # adding a new key-value pair
 print(nebiyu)
+
+
+dawit = {"first_name": "Dawit", "last_name": "Abreham", "age": 25, "city": "Addis Ababa"}
+# print(dawit)
+
+print(f"First Name: {dawit['first_name']}")
+print(f"Last Name: {dawit['last_name']}")
+print(f"Age: {dawit['age']}")
+print(f"City: {dawit['city']}")

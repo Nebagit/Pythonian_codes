@@ -20,3 +20,15 @@ print(f"First Name: {dawit['first_name']}")
 print(f"Last Name: {dawit['last_name']}")
 print(f"Age: {dawit['age']}")
 print(f"City: {dawit['city']}")
+
+favorite_numbers = {
+    "Dawit": 12,
+    "Melaku": 19,
+    "Yekoye": 21,
+    "Nebiyu": 7,
+}
+
+print(f"Dawit's favorite number is {favorite_numbers['Dawit']}")
+print(f"Melaku's favorite number is {favorite_numbers['Melaku']}")
+print(f"Yekoye's favorite number is {favorite_numbers['Yekoye']}")
+print(f"Nebiyu's favorite number is {favorite_numbers['Nebiyu']}")

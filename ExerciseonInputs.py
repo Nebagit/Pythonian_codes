@@ -12,3 +12,16 @@ if int(number) % 10 == 0:
     print(f"{number} is a multiple of 10.")
 else:
     print(f"{number} is not a multiple of 10.")
+
+
+prompt = "\nTell me something, and I will repeat it back to you: "
+prompt += "\nEnter 'quit' to end the program. "
+
+active = True
+while active:
+    message = input(prompt)
+    if message == 'quit':
+        active = False
+    else:
+        print(message)
+

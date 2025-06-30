@@ -25,3 +25,23 @@ while active:
     else:
         print(message)
 
+
+pizza = input("What toppings would you like on your pizza? (Enter 'quit' to finish) ")
+while pizza.lower() != 'quit':
+    print(f"Adding {pizza} to your pizza.")
+    pizza = input("What other toppings would you like? (Enter 'quit' to finish) ")  
+
+while True:
+    age = input("How old are you? (Enter 'quit' to exit) ")
+    if age.lower() == 'quit':
+        break
+    elif age.isdigit():
+        age = int(age)
+        if age < 3:
+            print("Your ticket is free!")
+        elif age < 12:
+            print("Your ticket is $10.")
+        else:
+            print("Your ticket is $15.")
+    else:
+        print("Please enter a valid age or 'quit' to exit.")

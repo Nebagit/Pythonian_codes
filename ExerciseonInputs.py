@@ -45,3 +45,6 @@ while True:
             print("Your ticket is $15.")
     else:
         print("Please enter a valid age or 'quit' to exit.")
+
+while True:
+    print("\nPlease enter the name of a city you have visited (or 'quit' to exit): ")

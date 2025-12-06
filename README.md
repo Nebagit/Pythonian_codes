@@ -86,12 +86,4 @@ Feel free to fork the repo and add more challenges or optimize existing ones!
 
 This project is open-source
 
-
-# ✅ **Repo Description (Short & Professional)**
-
-**"Collection of Python crash-course training files, challenges, and problem-solving exercises for mastering core Python concepts."**
-
-
-# ✅ **GitHub “About” Section Text**
-
-**"A clean and structured Python learning repository containing challenges, examples, and real practice problems — ideal for beginners and learners revising Python fundamentals."**
+# Nebiyu Tefera

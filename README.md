@@ -1,6 +1,3 @@
-**README.md (Professional & Clean)**
-
-
 # Python Crash Course — Challenges & Problem Solving
 
 A curated collection of Python training files, challenge problems, and hands-on exercises designed to build strong programming fundamentals.  

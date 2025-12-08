@@ -1,4 +1,4 @@
-testlist=["test1", "test2", "test3", "test4", "test5"]
+testlist=["test1", "test2", "test3", "test4", "test5", "test6"]
 # inserting elements in the list with append, and insert methods
 print(testlist)
 testlist.append("test6APPENDED")
